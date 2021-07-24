@@ -56,7 +56,7 @@ Then you want to copy the DLL and place it in the same directory as `dll_injecto
 
 ### Step 4 - Run
 
-Make sure you have Task Manager open. (Open it quickly by doing `ctrl` + `shift` + `ESC`.)
+**Make sure you have Task Manager open**. (Open it quickly by doing `ctrl` + `shift` + `ESC`.)
 
 Run the executable with 
 ```
