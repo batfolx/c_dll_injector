@@ -42,11 +42,6 @@ int main() {
         return -1;
     }
 
-    HMODULE mod = LoadLibraryA(dll);
-    if (!mod) {
-        printf("Failed to load library A\n");
-        return -1;
-    }
 
     printf("This is process ID: %lu\n", proc_id);
     return 0;
